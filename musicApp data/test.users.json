@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69ea50f82410a7cdf7301f02"
+  },
+  "name": "Alice Johnson",
+  "email": "alice@gmail.com",
+  "password": "$2b$10$V4vwg.9FMXDyr3DbSgc96OkW9dpPYia8FP2DOMrrKQa8e/mkMbn8a",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea51522410a7cdf7301f03"
+  },
+  "name": "Bob Smith",
+  "email": "bob@gmail.com",
+  "password": "$2b$10$KvMU6cJEmKLUw8h1TqEy1.5Mj6oAYjb204H.1jvJvBGr/ihQJiLoG",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea516a2410a7cdf7301f04"
+  },
+  "name": "Charlie Brown",
+  "email": "charlie@gmail.com",
+  "password": "$2b$10$sb3DKmhG5bmfQ7oO5uWCfePlL4pXhySG3It.QXaHFmr8mVzHH/UhC",
+  "role": "artist",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ec49768abfff331ecce115"
+  },
+  "name": "Rohit Gupta",
+  "email": "rohit@gmail.com",
+  "password": "$2b$10$oFjmUz72WS8/i4MrAXFfAuo6Th60Qpv7Eq5/TLBktHGBmdvKE6wa2",
+  "role": "artist",
+  "__v": 0
+}]
