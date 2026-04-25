@@ -41,6 +41,7 @@ npm install
 
 ```bash
 node src/server.js
+npm run dev
 ```
 
 ### 🌐 Server URL
@@ -58,9 +59,7 @@ Create a `.env` file in the root directory:
 ```env
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-IMAGEKIT_PUBLIC_KEY=your_public_key
 IMAGEKIT_PRIVATE_KEY=your_private_key
-IMAGEKIT_URL_ENDPOINT=https://ik.imagekit.io/your_id
 ```
 
 ---
